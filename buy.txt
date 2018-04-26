@@ -4,5 +4,11 @@
         "cover":{"small":"http://transpocom.ru/wp-content/uploads/2013/09/car.png",
         "big":"http://transpocom.ru/wp-content/uploads/2013/09/car.png",
         "big1":"http://transpocom.ru/wp-content/uploads/2013/09/car.png"
+    }},
+    {"id":1080505,"name":"BMW","genres":["2012г. ","2.5л."],"price":"2500р/сут","phone":"89111117945",
+        "description":"Описание от владельца Основные характаристики машины.",
+        "cover":{"small":"https://slipquack.github.io/mersedes1.jpg",
+        "big":"https://slipquack.github.io/mersedes1.jpg",
+        "big1":"https://slipquack.github.io/mersedes1.jpg"
     }}
 ]
