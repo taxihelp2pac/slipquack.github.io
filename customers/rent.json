@@ -1,33 +1,33 @@
 [
-    {"id":1080505,"name":"BMW","genres":["2012г. ","2.5л."],"price":"2500р/сут","phone":"89111117945",
+    {"id":1080505,"name":"BMW","genres":["2012г. ","2.5л."],"price":"2500р/сут","phone":"89111117000",
         "description":"Описание от владельца Основные характаристики машины.",
         "cover":{"small":"http://slipqufe.beget.tech/assets/customers/rent/img/bmw1.jpg",
         "big":"http://slipqufe.beget.tech/assets/customers/rent/img/bmw2.jpg",
         "big1":"http://slipqufe.beget.tech/assets/customers/rent/img/bmw1.jpg"
     }},
     
-    {"id":1080505,"name":"MERSEDES","genres":["2012г. ","2.5л."],"price":"2500р/сут","phone":"89111117945",
+    {"id":1080505,"name":"MERSEDES","genres":["2012г. ","2.5л."],"price":"2500р/сут","phone":"89111117000",
         "description":"Описание от владельца Основные характаристики машины.",
         "cover":{"small":"http://slipqufe.beget.tech/assets/customers/rent/img/mersedes1.jpg",
         "big":"http://slipqufe.beget.tech/assets/customers/rent/img/mersedes2.jpg",
         "big1":"http://slipqufe.beget.tech/assets/customers/rent/img/mersedes1.jpg"
     }},
     
-    {"id":1080505,"name":"NISSAN","genres":["2012г. ","2.5л."],"price":"2500р/сут","phone":"89111117945",
+    {"id":1080505,"name":"NISSAN","genres":["2012г. ","2.5л."],"price":"2500р/сут","phone":"89111117000",
         "description":"Описание от владельца Основные характаристики машины.",
         "cover":{"small":"http://slipqufe.beget.tech/assets/customers/rent/img/nissan1.jpg",
         "big":"http://slipqufe.beget.tech/assets/customers/rent/img/nissan2.jpg",
         "big1":"http://slipqufe.beget.tech/assets/customers/rent/img/nissan1.jpg"
     }},
     
-    {"id":1080505,"name":"CHEVROLET","genres":["2012г. ","2.5л."],"price":"2500р/сут","phone":"89111117945",
+    {"id":1080505,"name":"CHEVROLET","genres":["2012г. ","2.5л."],"price":"2500р/сут","phone":"89111117000",
         "description":"Описание от владельца Основные характаристики машины.",
         "cover":{"small":"http://slipqufe.beget.tech/assets/customers/rent/img/chevrolet1.jpg",
         "big":"http://slipqufe.beget.tech/assets/customers/rent/img/chevrolet2.jpg",
         "big1":"http://slipqufe.beget.tech/assets/customers/rent/img/chevrolet1.jpg"
     }},
     
-    {"id":1080505,"name":"HYUNDAI","genres":["2012г. ","2.5л."],"price":"2500р/сут","phone":"89111117945",
+    {"id":1080505,"name":"HYUNDAI","genres":["2012г. ","2.5л."],"price":"2500р/сут","phone":"89111117000",
         "description":"Описание от владельца Основные характаристики машины.",
         "cover":{"small":"http://slipqufe.beget.tech/assets/customers/rent/img/hyundai1.jpg",
         "big":"http://slipqufe.beget.tech/assets/customers/rent/img/hyundai2.jpg",
